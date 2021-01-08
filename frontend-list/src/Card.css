@@ -1,0 +1,49 @@
+.Card {
+    background-color: azure;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 15px;
+    margin: 10px;
+}
+
+.taskname {
+    text-align: center;
+}
+
+.taskinfo {
+    text-align: center;
+}
+
+#edit-button {
+    background-color: #f5f825; /* Green */
+    border: none;
+    color: black;
+    padding: 3px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#edit-button:hover {
+    background-color: rgb(167, 167, 26);
+}
+
+#delete-button {
+    background-color: #f33333; /* Green */
+    border: none;
+    color: black;
+    padding: 3px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#delete-button:hover {
+    background-color: rgb(179, 15, 15);
+}
