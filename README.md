@@ -1,6 +1,6 @@
 <h1> Todo Master </h1>
   
- A simple and easy to use app to manage all your tasks in one space. It is responsive and efficient and allows the easy creation, deletion, and editing of tasks in an easy to read, card based format.
+ A simple and easy to use app to manage all your tasks in one space. It is responsive and efficient and allows the easy creation, deletion, and editing of tasks in an easy to read, card based format. Created using the PERN stack (PostgreSQL, Express, React, Node)
  
  <h1> App Features </h1> 
  
