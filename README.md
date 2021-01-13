@@ -23,3 +23,7 @@
  - Create the columns ```user_name```, ```user_pass```, and ```user_id``` all using ```character varying``` with at least 50 characters in ```userinfo```
  - Navigate to both the frontend and backend directories respectively and run ```npm install``` and then run ```npm start``` to start the application
  - Frontend React App should be running on ```http://localhost:3000``` and Backend Express API on ```http://localhost:5000```
+
+<h1> Live App </h1>
+
+- Coming Soon
